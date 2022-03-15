@@ -2,7 +2,7 @@
 ## Milestones:
 - [X] Turn 16
 - [X] Turn 17  
-- [ ] Turn 18
+- [X] Turn 18
 - [ ] Turn 19
 - [ ] Turn 20
 - [ ] Turn 21
