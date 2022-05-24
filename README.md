@@ -15,4 +15,3 @@
 
 - [ ] Release a game on steam
 - [ ] Release a music album
-- [ ] 
