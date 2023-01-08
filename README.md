@@ -13,5 +13,5 @@
 - [ ] Turn 26
 - [ ] Turn Old
 
-- [ ] Release a game on steam
+- [X] Release a game on steam
 - [ ] Release a music album
