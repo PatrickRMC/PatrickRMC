@@ -3,9 +3,9 @@
 - [X] Turn 16
 - [X] Turn 17  
 - [X] Turn 18
-- [ ] Turn 19
-- [ ] Turn 20
-- [ ] Turn 21
+- [X] Turn 19
+- [X] Turn 20
+- [X] Turn 21
 - [ ] Turn 22
 - [ ] Turn 23
 - [ ] Turn 24
@@ -14,4 +14,4 @@
 - [ ] Turn Old
 
 - [X] Release a game on steam
-- [ ] Release a music album
+- [X] Release a music album
